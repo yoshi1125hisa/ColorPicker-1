@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+*{
+  font-family: '游ゴシック', YuGothic, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Verdana, 'メイリオ', Meiryo, sans-serif, 'Abel', sans-serif;
+  outline: none;
+}
+
+#hex{
+  font-size: 50px;
+  text-align: center;
+}
+
+.text{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.box{
+  font-size: 16px;
+  width: 50px;
+  height: 18px;
+  float: left;
+}
+
+.slider{
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.box{
+  display: none;
+}
+
+#slider-1{
+  margin-top: 80px;
+}
+
+#colors{
+  width: 300px;
+  margin: 0 auto;
+}
+
+#revers, #hoshoku{
+  border-radius: 15px;
+}
+
+#colors h1{
+  text-align: center;
+}
+
+.ui-corner-all{
+  border-radius: 20px;
+}
